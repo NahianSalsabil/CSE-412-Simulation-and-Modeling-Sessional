@@ -9,5 +9,5 @@ This repository included all the course assignments for **Simulation and Modelin
 - `Offline 4` - Single Server Queuing System using *spreadsheet*
 - `Offline 5`
     - `5a` - Optimal Stopping Marriage Problem
-    - `5b` - monte Carlo Technique
+    - `5b` - Monte Carlo Technique
  
